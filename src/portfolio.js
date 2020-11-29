@@ -10,7 +10,7 @@ const greeting = {
   username: "Sakshi Mishra",
   title: "Hey there! I'm Sakshi",
   subTitle: emoji("A passionate Software Developer 🚀"),
-  resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
+  resumeLink: "https://drive.google.com/file/d/1LYF5K8V-NA7KFbreQiM0horB-DgGx_KU/view?usp=sharing"
 };
 
 // Your Social Media Link
@@ -245,13 +245,13 @@ const achievementSection = {
       title: "107th Rank in TCS Codevita 2016",
       subtitle: "30k+ participants",
       image: require("./assets/images/codevita.png"),
-      footerLink: [{ name: "Certificate", url: "http://sankalp95.org" }]
+      footerLink: [{ name: "Certificate", url: "https://drive.google.com/file/d/12mye7d_bk2KMxgitYwmlTq5LPDniuvt3/view?usp=sharing" }]
     },
     {
       title: "Sankalp 95 (NGO)",
       subtitle: "Created their website and participated in social causes",
       image: require("./assets/images/sankalp.webp"),
-      footerLink: [{ name: "Certificate", url: "http://sankalp95.org" }]
+      footerLink: [{ name: "Certificate", url: "https://drive.google.com/file/d/1Cyx77-8Yf0WnNsvTKRgbTP-XCZaLRXcO/view?usp=sharing" }]
     }
   ]
 };
